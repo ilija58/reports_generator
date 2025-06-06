@@ -1,0 +1,74 @@
+[
+    {
+        "department": "Marketing",
+        "email": "alice@example.com",
+        "hours_worked": "160",
+        "id": "1",
+        "name": "Alice Johnson",
+        "rate": "50"
+    },
+    {
+        "department": "Design",
+        "email": "bob@example.com",
+        "hours_worked": "150",
+        "id": "2",
+        "name": "Bob Smith",
+        "rate": "40"
+    },
+    {
+        "department": "Design",
+        "email": "carol@example.com",
+        "hours_worked": "170",
+        "id": "3",
+        "name": "Carol Williams",
+        "rate": "60"
+    },
+    {
+        "department": "HR",
+        "email": "grace@example.com",
+        "hours_worked": "160",
+        "id": "101",
+        "name": "Grace Lee",
+        "rate": "45"
+    },
+    {
+        "department": "Marketing",
+        "email": "henry@example.com",
+        "hours_worked": "150",
+        "id": "102",
+        "name": "Henry Martin",
+        "rate": "35"
+    },
+    {
+        "department": "HR",
+        "email": "ivy@example.com",
+        "hours_worked": "158",
+        "id": "103",
+        "name": "Ivy Clark",
+        "rate": "38"
+    },
+    {
+        "department": "Sales",
+        "email": "karen@example.com",
+        "hours_worked": "165",
+        "id": "201",
+        "name": "Karen White",
+        "rate": "50"
+    },
+    {
+        "department": "HR",
+        "email": "liam@example.com",
+        "hours_worked": "155",
+        "id": "202",
+        "name": "Liam Harris",
+        "rate": "42"
+    },
+    {
+        "department": "Sales",
+        "email": "mia@example.com",
+        "hours_worked": "160",
+        "id": "203",
+        "name": "Mia Young",
+        "rate": "37"
+    }
+]
